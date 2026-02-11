@@ -1,4 +1,4 @@
-# 🛠️ The LoonyDevs Playbook
+# 🛠️ The LooniesDevs Playbook
 
 > How we write, review, and ship clean code together
 
