@@ -60,17 +60,6 @@
 
 ---
 
-## 📑 CODEOWNERS
-A `.github/CODEOWNERS` file should exist in every repo to auto-request reviews from specific people. **Note:** On private repos using the Free plan, GitHub will suggest reviewers but cannot enforce approval from CODEOWNERS in branch protection rules.
-
-Example:
-```
-* @Engulfedleader2 @ItzYaBoiiJoe
-```
-Use this to guide your team — merging still requires manual discipline unless you upgrade to a GitHub Team plan.
-
----
-
 ## 📋 Pull Request Template
 Use the standard PR template to make reviews easier.
 
